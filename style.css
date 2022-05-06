@@ -17,13 +17,21 @@
 .left-section {
     grid-column: span 2;
     height: 100%;
+<<<<<<< HEAD
     background-color: #9999999d;
+=======
+    background-color: #999999;
+>>>>>>> f3ac9d6afec58606e3675e90729241cf576ced30
 }
 
 .right-section {
     grid-column: span 5;
     height: 100%;
+<<<<<<< HEAD
     background-color: #e4bbec91;
+=======
+    background-color: #424a50;
+>>>>>>> f3ac9d6afec58606e3675e90729241cf576ced30
     border-radius: 0px 60px 0px 0px;
 }
 
@@ -33,7 +41,11 @@
 
 .profile {
     width: 100%;
+<<<<<<< HEAD
     border-bottom: 2px solid black;
+=======
+    border-bottom: 2px solid #eeeeee;
+>>>>>>> f3ac9d6afec58606e3675e90729241cf576ced30
 }
 
 .profile .profile-image {
@@ -42,15 +54,23 @@
 }
 
 .name {
+<<<<<<< HEAD
     color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+=======
+    color: #D6DBDF;
+>>>>>>> f3ac9d6afec58606e3675e90729241cf576ced30
     font-size: 30px;
     letter-spacing: 2px;
     text-transform: uppercase;
 }
 
 .profession {
+<<<<<<< HEAD
     color: black;
+=======
+    color: #eeeeee;
+>>>>>>> f3ac9d6afec58606e3675e90729241cf576ced30
     font-size: 20px;
     text-transform: uppercase;
     text-align: center;
@@ -58,7 +78,11 @@
 
 /* .contact-info { border-bottom: 2px solid #1B2631; } */
 .left-title {
+<<<<<<< HEAD
     color: black;
+=======
+    color: #eeeeee;
+>>>>>>> f3ac9d6afec58606e3675e90729241cf576ced30
     font-size: 20px;
 }
 
@@ -69,22 +93,36 @@
 .contact-info ul li,
 .references ul li {
     padding: .4rem 0;
+<<<<<<< HEAD
     color: black;
+=======
+    color: #eeeeee;
+>>>>>>> f3ac9d6afec58606e3675e90729241cf576ced30
 }
 
 .contact-info ul li i,
 .references ul li i {
     padding-right: 1rem;
     font-size: 18px;
+<<<<<<< HEAD
     color: black;
+=======
+    color: #eeeeee;
+>>>>>>> f3ac9d6afec58606e3675e90729241cf576ced30
 }
 
 .skills ul {
     padding-top: 1.5rem;
 }
+<<<<<<< HEAD
 .skills ul li {
     padding: .4rem 0;
     color:black;
+=======
+.skills ul li p {
+    padding: .4rem 0;
+    color: #eeeeee;
+>>>>>>> f3ac9d6afec58606e3675e90729241cf576ced30
 }
 
 .right-section-contents {
@@ -92,7 +130,11 @@
 }
 
 .right-title {
+<<<<<<< HEAD
     color: black;
+=======
+    color: #eeeeee;
+>>>>>>> f3ac9d6afec58606e3675e90729241cf576ced30
 }
 
 .gap {
@@ -100,7 +142,11 @@
 }
 .about-me-contents {
     font-size: 18px;
+<<<<<<< HEAD
     color: black;
+=======
+    color: #eeeeee;
+>>>>>>> f3ac9d6afec58606e3675e90729241cf576ced30
 }
 
 .experience-contents,
@@ -109,7 +155,11 @@
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     padding-bottom: 2rem;
+<<<<<<< HEAD
     color: black;
+=======
+    color: #F1F8FD;
+>>>>>>> f3ac9d6afec58606e3675e90729241cf576ced30
 }
 
 .exp-company-name,
